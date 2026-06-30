@@ -22,3 +22,6 @@ The objective of this lab is to identify and exploit the Apache Struts S2-045 Re
 - Nmap
 - Kali Linux Terminal
 - Searchsploit / Exploit-DB
+
+## Step
+
