@@ -1,4 +1,4 @@
-# Metasploit
+# Apache Struts s2-045
 
 ## Objective
 
@@ -20,6 +20,5 @@ The objective of this lab is to demonstrate the use of the Metasploit Framework 
 
 - Metasploit Framework (msfconsole)
 - Nmap
-- Netcat (optional for listener testing)
 - Kali Linux Terminal
 - Exploit database / module search
